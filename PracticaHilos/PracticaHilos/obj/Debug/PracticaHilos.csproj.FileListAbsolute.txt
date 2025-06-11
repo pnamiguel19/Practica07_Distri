@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\bin\Debug\PracticaHilos.exe.config
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\bin\Debug\PracticaHilos.exe
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\bin\Debug\PracticaHilos.pdb
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\obj\Debug\PracticaHilos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\obj\Debug\PracticaHilos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\obj\Debug\PracticaHilos.exe
+C:\Users\LENOVO\source\repos\PracticaHilos\PracticaHilos\obj\Debug\PracticaHilos.pdb
